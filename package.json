@@ -1,0 +1,12 @@
+{
+  "name": "new-portfolio-website",
+  "version": "1.0.0",
+  "description": "everything-about-garima",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "vercel --prod"
+  },
+  "author": "garima",
+  "license": "ISC"
+}
